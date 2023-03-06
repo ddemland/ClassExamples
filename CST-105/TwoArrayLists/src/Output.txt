@@ -1,0 +1,10 @@
+Data       Reverse
+------------------
+This         sihT       
+is           si         
+a            a          
+test         tset       
+file.        .elif      
+It           tI         
+has          sah        
+information  noitamrofni

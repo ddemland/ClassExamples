@@ -1,0 +1,9 @@
+This is a test file for CST 105.
+The goal is to count the number of lines and words.
+That are in this file.
+
+If all goes well there should be a total number of words: 49
+
+And there should be a total number of lines: 9
+
+Then End.
